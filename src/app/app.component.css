@@ -1,0 +1,10 @@
+.users-list li   {
+  cursor: pointer;
+}
+.jumbotron .glyphicon {
+  font-size: 80px;
+}
+.jumbotron{
+    border-radius: 5px;
+    padding: 25px;
+}
